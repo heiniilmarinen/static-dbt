@@ -1,0 +1,2 @@
+# static-dbt
+static-dbt
